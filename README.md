@@ -1,10 +1,10 @@
-# npm install 
+# Dependencias
 
 ## Express  
 - npm install --save express
 
 ## Socket io
--npm install --save socket.io
+- npm install --save socket.io
 
 ## nodemon
 
